@@ -1,2 +1,2 @@
 # example
-example repo
+example repo for git demo
