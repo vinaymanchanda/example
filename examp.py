@@ -1,1 +1,2 @@
-print("i am hungry")
+print("wassup i am hungry")
+priny("ashton")
